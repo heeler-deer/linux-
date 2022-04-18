@@ -1,2 +1,4 @@
-tar -czvf /home/heeler/Zotero/storage.tar.gz storage
+# 打包文件
+tar -czvf file.tar.gz file
 
+#配合synchro.sh以及crontab使用
